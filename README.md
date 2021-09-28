@@ -9,7 +9,7 @@ ____
 
 Task 2
 
-I don't understand function count so used the built-in function.
+I don't understand count function so used the built-in function.
 ___
 Task 3
 
